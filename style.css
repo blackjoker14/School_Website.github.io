@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+}
+#school{
+    text-align: center;
+   background-color:aliceblue;
+}
+marquee{
+    background-color: blue;
+    color: white;
+}
+#school_img{
+    width: 100%;
+    background-color: aliceblue;
+    padding-bottom: 20px;   
+}
+.page-header{
+ font-size: 30px;
+    
+}
